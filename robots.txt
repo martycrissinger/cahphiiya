@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeceenaeya.benjaminroos.de/sitemap.xml
